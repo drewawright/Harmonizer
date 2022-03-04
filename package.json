@@ -1,0 +1,23 @@
+{
+  "name": "harmonizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewawright/Harmonizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewawright/Harmonizer/issues"
+  },
+  "homepage": "https://github.com/drewawright/Harmonizer#readme",
+  "dependencies": {
+    "pitchfinder": "^2.3.2",
+    "tone": "^14.7.77"
+  }
+}
